@@ -2,7 +2,7 @@
   application designed to facilitate the use, management, and interaction with cryptocurrencies.
 
 # About this project: 🙌
-- Here is the link of our website live on netlify: https://crypto-currency-app-nine.vercel.app/
+- Here is the link of our website live on netlify: [https://crypto-currency-app-nine.vercel.app/](https://crypto-currency-application.vercel.app/)
 
 ### Pages & Features 👇
 
